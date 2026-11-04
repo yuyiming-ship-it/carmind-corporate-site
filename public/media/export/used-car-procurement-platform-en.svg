@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="864" viewBox="0 0 1536 864" role="img" aria-label="Overseas customers / dealers">
+  
+    <style>
+      svg { font-family: Inter, Arial, "Noto Sans", "Noto Sans SC", "Noto Sans Arabic", sans-serif; }
+      .shadow { filter: drop-shadow(0 10px 18px rgba(0, 80, 180, .18)); }
+    </style>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#dcebff"/>
+      <stop offset=".45" stop-color="#f9fcff"/>
+      <stop offset="1" stop-color="#cfe5ff"/>
+    </linearGradient>
+    <radialGradient id="coreGlow" cx="42%" cy="18%" r="76%">
+      <stop offset="0" stop-color="#1d76ff"/>
+      <stop offset=".45" stop-color="#0b48bd"/>
+      <stop offset="1" stop-color="#08328f"/>
+    </radialGradient>
+    <linearGradient id="green" x1="0" x2="1">
+      <stop offset="0" stop-color="#079640"/>
+      <stop offset="1" stop-color="#0cb34e"/>
+    </linearGradient>
+    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse">
+      <path d="M52 0H0v52" fill="none" stroke="#7fb6f0" stroke-opacity=".23" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1536" height="864" fill="url(#bg)"/>
+  <rect width="1536" height="864" fill="url(#grid)" opacity=".8"/>
+  <path d="M0 112C206 52 338 4 520 20M24 378C180 286 292 186 384 18M1048 44c130 18 246 52 364 112M1112 108c168 30 288 88 416 182" fill="none" stroke="#fff" stroke-width="6" opacity=".62"/>
+  <path d="M0 246c168-100 298-154 472-170M1008 40c210 36 382 108 520 220" fill="none" stroke="#7bb8ff" stroke-width="2" opacity=".42"/>
+
+  <g class="shadow">
+    <rect x="270" y="18" width="910" height="150" rx="22" fill="#fff" stroke="#0d61df" stroke-width="3"/>
+    <rect x="404" y="58" width="82" height="74" rx="22" fill="#eaf3ff"/>
+    <circle cx="438" cy="85" r="13" fill="#1f75ff"/><circle cx="463" cy="85" r="13" fill="#1f75ff"/><circle cx="450" cy="67" r="13" fill="#1f75ff"/>
+    <text x="520" y="82" text-anchor="start" class="" fill="#06224b" font-size="48" font-weight="950"><tspan x="520" dy="0">Overseas customers / dealers</tspan></text>
+    <text x="520" y="126" text-anchor="start" class="" fill="#06224b" font-size="23" font-weight="900"><tspan x="520" dy="0">Submit needs: model / year / budget / quantity / other requirements</tspan></text>
+  </g>
+
+  <path d="M725 168l28 42h-56z" fill="#1489ff"/>
+  <path d="M753 462l-28 42-28-42z" fill="#1489ff"/>
+  <path d="M1010 382l62 38-62 38z" fill="#1489ff"/>
+
+  <g class="shadow">
+    <rect x="514" y="202" width="450" height="290" rx="118" fill="url(#coreGlow)" stroke="#176be6" stroke-width="10"/>
+    <path d="M604 282c58-36 168-36 226 0M620 282l-28 25h266l-30-25" fill="none" stroke="#fff" stroke-width="7" stroke-linejoin="round"/>
+    <text x="740" y="346" text-anchor="middle" class="" fill="#fff" font-size="58" font-weight="950"><tspan x="740" dy="0">CARMIND</tspan></text>
+    <text x="740" y="402" text-anchor="middle" class="" fill="#fff" font-size="24" font-weight="900"><tspan x="740" dy="0">Transparent sourcing service platform</tspan></text>
+  </g>
+
+  <g class="shadow">
+    <rect x="128" y="330" width="380" height="56" rx="14" fill="#fff" stroke="#c6ddff"/>
+    <rect x="128" y="404" width="380" height="56" rx="14" fill="#fff" stroke="#c6ddff"/>
+    <text x="152" y="366" text-anchor="start" class="" fill="#06224b" font-size="25" font-weight="900"><tspan x="152" dy="0">Requirement confirmation</tspan></text>
+    <text x="152" y="440" text-anchor="start" class="" fill="#06224b" font-size="25" font-weight="900"><tspan x="152" dy="0">Service agreement</tspan></text>
+    <text x="318" y="274" fill="#0759d6" font-size="56" font-weight="900">☑</text>
+    <text x="322" y="350" fill="#0759d6" font-size="52" font-weight="900">✍</text>
+  </g>
+
+  <g class="shadow">
+    <rect x="1040" y="330" width="350" height="56" rx="14" fill="#fff" stroke="#c6ddff"/>
+    <rect x="1040" y="404" width="350" height="56" rx="14" fill="#fff" stroke="#c6ddff"/>
+    <text x="880" y="282" fill="#0759d6" font-size="56" font-weight="900">◎</text>
+    <text x="880" y="356" fill="#0759d6" font-size="52" font-weight="900">▣</text>
+    <text x="1064" y="366" text-anchor="start" class="" fill="#06224b" font-size="23" font-weight="900"><tspan x="1064" dy="0">Optimal sourcing plan</tspan></text>
+    <text x="1064" y="440" text-anchor="start" class="" fill="#06224b" font-size="23" font-weight="900"><tspan x="1064" dy="0">Full-process follow-up</tspan></text>
+  </g>
+
+  <g class="shadow">
+    <rect x="1160" y="238" width="372" height="250" rx="24" fill="#fff" stroke="#4b86ff" stroke-width="3"/>
+    <text x="1206" y="302" text-anchor="start" class="" fill="#0640b8" font-size="30" font-weight="950"><tspan x="1206" dy="0">Promise to overseas dealers</tspan></text>
+    <text x="1202" y="362" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="1230" y="362" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="1230" dy="0">No vehicle price spread</tspan></text>
+    <text x="1202" y="410" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="1230" y="410" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="1230" dy="0">Fixed service fee only</tspan></text>
+    <rect x="1208" y="456" width="296" height="58" rx="14" fill="#0649c7"/>
+    <text x="1356" y="493" text-anchor="middle" class="" fill="#fff" font-size="20" font-weight="950"><tspan x="1356" dy="0">Fixed service fee: 200 USD / order</tspan></text>
+    <text x="1356" y="548" text-anchor="middle" class="" fill="#0649c7" font-size="18" font-weight="850"><tspan x="1356" dy="0">No matter the vehicle price, only a fixed service fee is charged</tspan></text>
+  </g>
+
+  <path d="M740 492v44M740 536H356v50M740 536h384v50M740 536v50" stroke="#119a42" stroke-width="8" fill="none"/>
+  <g class="shadow">
+    <rect x="524" y="506" width="488" height="72" rx="18" fill="#effff1" stroke="#48bd62" stroke-width="2"/>
+    <circle cx="608" cy="542" r="31" fill="#14a840"/><text x="608" y="557" fill="#fff" font-size="42" font-weight="950" text-anchor="middle">⌕</text>
+    <text x="804" y="536" text-anchor="middle" class="" fill="#05802f" font-size="25" font-weight="950"><tspan x="804" dy="0">Multi-channel vehicle sourcing</tspan></text>
+    <text x="804" y="565" text-anchor="middle" class="" fill="#06224b" font-size="17" font-weight="850"><tspan x="804" dy="0">Find better vehicle sources for customers</tspan></text>
+  </g>
+
+  <g>
+    <rect x="78" y="590" width="402" height="218" rx="16" fill="#ffffff" stroke="#22a64e" stroke-width="2"/>
+    <circle cx="120" cy="624" r="21" fill="#1f8fff"/>
+    <text x="120" y="632" text-anchor="middle" class="" fill="#fff" font-size="20" font-weight="950"><tspan x="120" dy="0">1</tspan></text>
+    <text x="120" y="658" text-anchor="start" class="" fill="#06224b" font-size="27" font-weight="950"><tspan x="120" dy="0">Dealer group inventory</tspan></text>
+    <text x="120" y="690" text-anchor="start" class="" fill="#547096" font-size="16" font-weight="850"><tspan x="120" dy="0">4S stores / authorized dealer groups</tspan></text>
+    <g><rect x="124" y="714" width="77.5" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="162.75" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="162.75" dy="0">Mercedes</tspan></text><rect x="215.5" y="714" width="77.5" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="254.25" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="254.25" dy="0">BMW</tspan></text><rect x="307" y="714" width="77.5" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="345.75" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="345.75" dy="0">Audi</tspan></text><rect x="398.5" y="714" width="77.5" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="437.25" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="437.25" dy="0">...</tspan></text></g>
+    <g>
+      <text x="128" y="772" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="156" y="772" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="156" dy="0">Premium used cars</tspan></text>
+      <text x="287" y="772" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="315" y="772" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="315" dy="0">Complete paperwork</tspan></text>
+      <text x="128" y="798" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="156" y="798" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="156" dy="0">Good condition</tspan></text>
+      <text x="287" y="798" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="315" y="798" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="315" dy="0">Transparent pricing</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect x="528" y="590" width="470" height="218" rx="16" fill="#ffffff" stroke="#ff8b2c" stroke-width="2"/>
+    <circle cx="570" cy="624" r="21" fill="#1f8fff"/>
+    <text x="570" y="632" text-anchor="middle" class="" fill="#fff" font-size="20" font-weight="950"><tspan x="570" dy="0">2</tspan></text>
+    <text x="570" y="658" text-anchor="start" class="" fill="#06224b" font-size="27" font-weight="950"><tspan x="570" dy="0">Platform inventory</tspan></text>
+    <text x="570" y="690" text-anchor="start" class="" fill="#547096" font-size="16" font-weight="850"><tspan x="570" dy="0">Mainstream used-car / vertical platforms</tspan></text>
+    <g><rect x="574" y="714" width="94.5" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="621.25" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="621.25" dy="0">Dongchedi</tspan></text><rect x="682.5" y="714" width="94.5" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="729.75" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="729.75" dy="0">Autohome</tspan></text><rect x="791" y="714" width="94.5" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="838.25" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="838.25" dy="0">Guazi</tspan></text><rect x="899.5" y="714" width="94.5" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="946.75" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="946.75" dy="0">...</tspan></text></g>
+    <g>
+      <text x="578" y="772" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="606" y="772" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="606" dy="0">Rich model range</tspan></text>
+      <text x="771" y="772" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="799" y="772" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="799" dy="0">AI price comparison</tspan></text>
+      <text x="578" y="798" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="606" y="798" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="606" dy="0">Real-time inventory</tspan></text>
+      <text x="771" y="798" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="799" y="798" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="799" dy="0">Accurate matching</tspan></text>
+    </g>
+  </g>
+  <g>
+    <rect x="1048" y="590" width="456" height="218" rx="16" fill="#ffffff" stroke="#7357e6" stroke-width="2"/>
+    <circle cx="1090" cy="624" r="21" fill="#1f8fff"/>
+    <text x="1090" y="632" text-anchor="middle" class="" fill="#fff" font-size="20" font-weight="950"><tspan x="1090" dy="0">3</tspan></text>
+    <text x="1090" y="658" text-anchor="start" class="" fill="#06224b" font-size="27" font-weight="950"><tspan x="1090" dy="0">Ride-hailing / off-lease fleets</tspan></text>
+    <text x="1090" y="690" text-anchor="start" class="" fill="#547096" font-size="16" font-weight="850"><tspan x="1090" dy="0">Ride-hailing / rental / operating fleets</tspan></text>
+    <g><rect x="1094" y="714" width="91" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="1139.5" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="1139.5" dy="0">DiDi</tspan></text><rect x="1199" y="714" width="91" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="1244.5" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="1244.5" dy="0">T3</tspan></text><rect x="1304" y="714" width="91" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="1349.5" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="1349.5" dy="0">Caocao</tspan></text><rect x="1409" y="714" width="91" height="38" rx="18" fill="#f4f8ff"/>
+  <text x="1454.5" y="741" text-anchor="middle" class="" fill="#06224b" font-size="21" font-weight="900"><tspan x="1454.5" dy="0">...</tspan></text></g>
+    <g>
+      <text x="1098" y="772" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="1126" y="772" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="1126" dy="0">Bulk supply</tspan></text>
+      <text x="1284" y="772" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="1312" y="772" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="1312" dy="0">Transparent mileage</tspan></text>
+      <text x="1098" y="798" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="1126" y="798" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="1126" dy="0">High value</tspan></text>
+      <text x="1284" y="798" fill="#07953e" font-size="22" font-weight="950">✓</text><text x="1312" y="798" text-anchor="start" class="" fill="#06224b" font-size="21" font-weight="850"><tspan x="1312" dy="0">Export-ready</tspan></text>
+    </g>
+  </g>
+  <g class="shadow">
+    <rect x="500" y="816" width="536" height="46" rx="23" fill="url(#green)"/>
+    <text x="768" y="847" text-anchor="middle" class="" fill="#fff" font-size="22" font-weight="950"><tspan x="768" dy="0">Suppliers (vehicle source channels)</tspan></text>
+  </g>
+</svg>

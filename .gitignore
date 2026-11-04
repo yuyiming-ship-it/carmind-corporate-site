@@ -1,0 +1,23 @@
+# Dependencies and generated output
+node_modules/
+dist/
+.qa/
+qa-*.png
+qa-*.jpg
+Carmind-官网-对外分享版.html
+
+# Local hosting metadata and environment secrets
+.netlify/
+.vercel/
+.openai/
+.env
+.env.*
+!.env.example
+
+# Local-only materials
+memory/
+pet-runs/
+.codex-pets/
+lark-im-resources/
+.DS_Store
+*.log
